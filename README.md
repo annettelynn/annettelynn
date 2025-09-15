@@ -11,9 +11,7 @@ Reach out via email at pt09032009479@gmail.com or phone (+84) 866 992 352
 
 ## My toolkit
 - **Data Analytics**: SQL, Power BI, Tableau, SAP, Looker Studio, Excel
-- **Product Discovery & UX/UI Design**: Skilled in user research, prototyping with Figma, and iterative MVP development. I've led product strategy for startups, integrating AI, AR, and gamification to enhance user engagement.
+- **Product Discovery & UX/UI Design**: Skilled in user research, prototyping with Figma, and iterative MVP development. I have been executing product strategy for early-stage ventures.
 - **Business & Research**: Market Research (surveys, competitor analysis), Proposal Drafting (MOUs, sponsorships), Meta-Analysis (literature reviews, forest plots)
 
 I'm eager to bring my analytical rigor, creative problem-solving, and entrepreneurial spirit to startups, data teams, or product roles. Whether it's querying complex datasets, prototyping user-centric apps, or strategizing for market growth, I'm ready to make an impact!
-
-
